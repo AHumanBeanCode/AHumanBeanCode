@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hi there.
-I am a student and gamedev from New Zealand. Check out my website at: https://itch.io/profile/thehumanbean
+I am a student and gamedev from New Zealand. Check out my website at: https://sites.google.com/view/ahumanbeans-portfolio
